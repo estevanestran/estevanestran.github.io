@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <style>
+    img{
+        height: 350px;
+        width: 350px;
+        border-radius: 8px;
+    }
+    .principal{
+        position: relative;
+        display: flex; 
+        align-items: center; 
+        gap: 20px;
+        margin-left: 15px;
+        color: #903d05;
+        font-family: "Homenaje";
+        font-size: 2em;
+    }
+    .adc{
+        color: #903d05;
+        font-family: "Homenaje";
+        font-size: 2em;
+        display: block;
+        margin: 10px;
+    }
+    .adc > div{
+        display: block;
+    }
+    #botao{
+        width: 250px;
+    }
+    #botao > p{
+        width: 224px;
+    }
+    h2{
+        color: black;
+    }
+    a{
+        color: #903d05;
+        text-decoration: none;
+    }
+    #desc{
+        color: #787676;
+    }
+    #quant{
+        position: relative;
+        display: inline-flex;
+        margin-top: 8px;
+    }
+    @media(max-width:768px){
+    .menu{
+        display: none;
+    }
+    .principal{
+        margin-left: 1%;
+        display: block;
+    }
+    }
+    </style>
+    <title>Document</title>
+</head>
+<header>
+    <div><a href="index.html"><h1>Swifting</h1></a></div>
+</header>
+<body>
+    <nav>
+        <div id="categorias">Categorias
+            <div>CDs</div>
+            <div>Vinis</div>
+            <div>Merch</div>
+            <div>Outros</div>
+        </div>
+        <div>Termos de uso</div>
+        <div>Sobre nós</div>
+    </nav>
+    <div class="grid">
+        <div class="menu">  
+            <ul type="none">
+                <li class="debut">Self-titled</li>
+                <li class="fearless">Fearless (Taylor's Version)</li>
+                <li class="speaknow">Speak Now (Taylor's Version)</li>
+                <li class="red">Red (Taylor's Version)</li>
+                <li class="eightynine">1989 (Taylor's Version)</li>
+                <li class="rep">reputation</li>
+                <li class="lover">Lover</li>
+                <li class="folk">folklore</li>
+                <li class="evermore">evermore</li>
+                <li class="midnights">Midnights</li>
+                <li class="ttpd">The Tortured Poets Department</li>
+            </ul>
+        </div>
+        <div>
+        <div class="principal">
+            <img src="https://m.media-amazon.com/images/I/81JNBy4njYL._AC_UF1000,1000_QL80_.jpg" alt="">
+            <div>
+            <h2>1989 (Taylor's Version)</h2>
+            <p>R$13,00</p>
+            <p>2023 &bull; Pop &bull; CD</p>
+            <p id="desc">Produto importado composto por 2 CDs, com um total de 21 faixas, incluindo 5 músicas "From The Vault".</p>
+            </div>
+        </div>
+        <div class="adc">
+            <div id="botao">
+                <p>Adicionar ao carrinho</p>
+            </div>
+            <div id="quant">
+                <div class="maismenos menos"><p>-</p></div>1<div class="maismenos mais"><p>+</p></div>
+            </div>
+            <a href="carrinho.html"><p style="text-decoration: underline; color: #903d05; padding: 5px 10px;">Ir para o carrinho</a></p>
+        </div>
+        </div>
+    </div>
+    <div id="menu"><p style="color: #3e6052; text-decoration: underline;">Pesquise por Era:</p>
+        <ul type="none">
+            <li class="debut">Self-titled</li>
+            <li class="fearless">Fearless (Taylor's Version)</li>
+            <li class="speaknow">Speak Now (Taylor's Version)</li>
+            <li class="red">Red (Taylor's Version)</li>
+            <li class="eightynine">1989 (Taylor's Version)</li>
+            <li class="rep">reputation</li>
+            <li class="lover">Lover</li>
+            <li class="folk">folklore</li>
+            <li class="evermore">evermore</li>
+            <li class="midnights">Midnights</li>
+            <li class="ttpd">The Tortured Poets Department</li>
+        </ul>
+    </div>
+</body>
+</html>
