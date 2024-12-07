@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <style>
+    body > div > div > div > div{
+    display: inline-block;
+    }
+    img{
+        height: 150px;
+        width: 150px;
+        border-radius: 8px;
+    }
+    .flex{
+        display: flex; 
+        align-items: center; 
+        gap: 20px; 
+        margin: 20px 0;
+        font-family: "Homenaje";
+        font-size: 2em;
+    }
+    .flex > div > p {
+        color: #903d05;
+    }
+    .principal{
+        margin-left: 15px;
+    }
+    .principal > p {
+        color: /*#4d6464*/#903d05;
+        font-family: "Homenaje";
+        font-size: 5em;
+    }
+    a{
+        color: black;
+        text-decoration: none;
+    }
+
+    @media(max-width:768px){
+    .menu{
+        display: none;
+    }
+    .flex{
+        display:block;
+        margin: 0;
+    }
+    .flex > div{
+        display: inline-block;
+    }
+    .principal{
+        margin-left: 12%;
+    }
+    }
+    </style>
+    <title>Document</title>
+</head>
+<header>
+    <div><a href="index.html"><h1>Swifting</h1></a></div>
+</header>
+<body>
+    <nav>
+        <div id="categorias">Categorias
+            <div>CDs</div>
+            <div>Vinis</div>
+            <div>Merch</div>
+            <div>Outros</div>
+        </div>
+        <div>Termos de uso</div>
+        <div>Sobre nós</div>
+    </nav>
+    <div class="grid">
+        <div class="menu">  
+            <ul type="none">
+                <li class="debut">Self-titled</li>
+                <li class="fearless">Fearless (Taylor's Version)</li>
+                <li class="speaknow">Speak Now (Taylor's Version)</li>
+                <li class="red">Red (Taylor's Version)</li>
+                <li class="eightynine">1989 (Taylor's Version)</li>
+                <li class="rep">reputation</li>
+                <li class="lover">Lover</li>
+                <li class="folk">folklore</li>
+                <li class="evermore">evermore</li>
+                <li class="midnights">Midnights</li>
+                <li class="ttpd">The Tortured Poets Department</li>
+            </ul>
+        </div>
+        <div class="principal"><p>MEU CARRINHO</p>
+            <div>
+                <div class="flex">
+                    <a href="produto1.html">
+                    <img src="https://discobole.gr/wp-content/uploads/2024/12/71pUMFC6k7L._AC_SL1500_-2.jpg" alt="">
+                    <div>
+                        <h2>The Tortured Poets Department: The Anthology</h2></a>
+                        <p>R$130,00</p>
+                        <div class="quant">
+                            <div class="maismenos menos"><p>-</p></div>1<div class="maismenos mais"><p>+</p></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex">
+                    <a href="produto2.html">
+                    <img src="https://m.media-amazon.com/images/I/81JNBy4njYL._AC_UF1000,1000_QL80_.jpg" alt="">
+                    <div>
+                        <h2>1989 (Taylor's Version)</h2></a>
+                        <p>R$13,00</p>
+                        <div class="quant">
+                            <div class="maismenos menos"><p>-</p></div>2<div class="maismenos mais"><p>+</p></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex">
+                    <img src="https://m.media-amazon.com/images/I/71FNnkWOjtL._UF894,1000_QL80_.jpg" alt="">
+                    <div>
+                        <h2>Speak Now (Taylor's Version)</h2>
+                        <p>R$13,00</p>
+                        <div class="quant">
+                            <div class="maismenos menos"><p>-</p></div>3<div class="maismenos mais"><p>+</p></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex" style="display: block;">
+                    <p style="color: #903d05;">Total: R$195,00</p>
+                    <div id="botao">
+                        <p>Finalizar compra</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="menu"><p style="color: #3e6052; text-decoration: underline;">Pesquise por Era:</p>
+        <ul type="none">
+            <li class="debut">Self-titled</li>
+            <li class="fearless">Fearless (Taylor's Version)</li>
+            <li class="speaknow">Speak Now (Taylor's Version)</li>
+            <li class="red">Red (Taylor's Version)</li>
+            <li class="eightynine">1989 (Taylor's Version)</li>
+            <li class="rep">reputation</li>
+            <li class="lover">Lover</li>
+            <li class="folk">folklore</li>
+            <li class="evermore">evermore</li>
+            <li class="midnights">Midnights</li>
+            <li class="ttpd">The Tortured Poets Department</li>
+        </ul>
+    </div>
+</body>
+</html>
