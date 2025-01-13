@@ -998,6 +998,3003 @@ const blood997 = document.getElementById("water997");
 const blood998 = document.getElementById("water998");
 const blood999 = document.getElementById("water999");
 const blood1000 = document.getElementById("water1000");
-water438.addEventListener("click", function () {
+blood1.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood2.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood3.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood4.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood5.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood6.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood7.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood8.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood9.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood10.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood11.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood12.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood13.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood14.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood15.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood16.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood17.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood18.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood19.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood20.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood21.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood22.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood23.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood24.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood25.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood26.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood27.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood28.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood29.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood30.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood31.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood32.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood33.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood34.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood35.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood36.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood37.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood38.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood39.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood40.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood41.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood42.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood43.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood44.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood45.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood46.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood47.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood48.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood49.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood50.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood51.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood52.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood53.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood54.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood55.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood56.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood57.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood58.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood59.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood60.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood61.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood62.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood63.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood64.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood65.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood66.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood67.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood68.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood69.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood70.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood71.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood72.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood73.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood74.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood75.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood76.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood77.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood78.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood79.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood80.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood81.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood82.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood83.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood84.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood85.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood86.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood87.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood88.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood89.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood90.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood91.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood92.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood93.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood94.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood95.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood96.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood97.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood98.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood99.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood100.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood101.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood102.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood103.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood104.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood105.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood106.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood107.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood108.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood109.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood110.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood111.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood112.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood113.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood114.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood115.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood116.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood117.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood118.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood119.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood120.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood121.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood122.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood123.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood124.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood125.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood126.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood127.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood128.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood129.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood130.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood131.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood132.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood133.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood134.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood135.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood136.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood137.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood138.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood139.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood140.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood141.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood142.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood143.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood144.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood145.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood146.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood147.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood148.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood149.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood150.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood151.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood152.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood153.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood154.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood155.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood156.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood157.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood158.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood159.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood160.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood161.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood162.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood163.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood164.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood165.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood166.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood167.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood168.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood169.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood170.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood171.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood172.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood173.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood174.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood175.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood176.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood177.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood178.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood179.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood180.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood181.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood182.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood183.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood184.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood185.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood186.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood187.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood188.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood189.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood190.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood191.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood192.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood193.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood194.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood195.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood196.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood197.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood198.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood199.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood200.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood201.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood202.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood203.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood204.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood205.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood206.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood207.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood208.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood209.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood210.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood211.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood212.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood213.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood214.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood215.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood216.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood217.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood218.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood219.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood220.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood221.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood222.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood223.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood224.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood225.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood226.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood227.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood228.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood229.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood230.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood231.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood232.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood233.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood234.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood235.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood236.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood237.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood238.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood239.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood240.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood241.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood242.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood243.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood244.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood245.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood246.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood247.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood248.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood249.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood250.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood251.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood252.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood253.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood254.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood255.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood256.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood257.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood258.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood259.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood260.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood261.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood262.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood263.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood264.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood265.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood266.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood267.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood268.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood269.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood270.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood271.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood272.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood273.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood274.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood275.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood276.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood277.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood278.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood279.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood280.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood281.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood282.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood283.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood284.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood285.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood286.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood287.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood288.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood289.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood290.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood291.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood292.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood293.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood294.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood295.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood296.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood297.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood298.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood299.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood300.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood301.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood302.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood303.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood304.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood305.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood306.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood307.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood308.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood309.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood310.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood311.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood312.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood313.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood314.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood315.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood316.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood317.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood318.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood319.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood320.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood321.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood322.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood323.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood324.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood325.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood326.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood327.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood328.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood329.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood330.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood331.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood332.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood333.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood334.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood335.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood336.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood337.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood338.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood339.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood340.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood341.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood342.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood343.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood344.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood345.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood346.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood347.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood348.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood349.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood350.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood351.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood352.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood353.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood354.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood355.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood356.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood357.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood358.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood359.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood360.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood361.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood362.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood363.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood364.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood365.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood366.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood367.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood368.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood369.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood370.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood371.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood372.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood373.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood374.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood375.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood376.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood377.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood378.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood379.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood380.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood381.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood382.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood383.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood384.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood385.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood386.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood387.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood388.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood389.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood390.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood391.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood392.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood393.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood394.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood395.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood396.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood397.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood398.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood399.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood400.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood401.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood402.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood403.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood404.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood405.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood406.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood407.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood408.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood409.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood410.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood411.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood412.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood413.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood414.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood415.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood416.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood417.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood418.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood419.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood420.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood421.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood422.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood423.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood424.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood425.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood426.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood427.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood428.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood429.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood430.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood431.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood432.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood433.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood434.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood435.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood436.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood437.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood438.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood439.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood440.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood441.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood442.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood443.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood444.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood445.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood446.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood447.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood448.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood449.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood450.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood451.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood452.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood453.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood454.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood455.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood456.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood457.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood458.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood459.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood460.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood461.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood462.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood463.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood464.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood465.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood466.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood467.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood468.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood469.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood470.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood471.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood472.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood473.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood474.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood475.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood476.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood477.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood478.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood479.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood480.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood481.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood482.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood483.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood484.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood485.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood486.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood487.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood488.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood489.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood490.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood491.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood492.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood493.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood494.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood495.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood496.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood497.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood498.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood499.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood500.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood501.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood502.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood503.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood504.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood505.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood506.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood507.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood508.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood509.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood510.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood511.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood512.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood513.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood514.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood515.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood516.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood517.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood518.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood519.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood520.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood521.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood522.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood523.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood524.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood525.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood526.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood527.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood528.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood529.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood530.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood531.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood532.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood533.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood534.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood535.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood536.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood537.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood538.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood539.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood540.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood541.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood542.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood543.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood544.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood545.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood546.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood547.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood548.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood549.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood550.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood551.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood552.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood553.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood554.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood555.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood556.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood557.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood558.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood559.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood560.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood561.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood562.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood563.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood564.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood565.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood566.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood567.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood568.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood569.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood570.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood571.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood572.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood573.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood574.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood575.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood576.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood577.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood578.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood579.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood580.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood581.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood582.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood583.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood584.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood585.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood586.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood587.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood588.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood589.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood590.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood591.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood592.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood593.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood594.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood595.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood596.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood597.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood598.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood599.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood600.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood601.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood602.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood603.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood604.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood605.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood606.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood607.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood608.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood609.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood610.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood611.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood612.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood613.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood614.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood615.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood616.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood617.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood618.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood619.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood620.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood621.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood622.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood623.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood624.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood625.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood626.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood627.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood628.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood629.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood630.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood631.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood632.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood633.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood634.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood635.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood636.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood637.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood638.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood639.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood640.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood641.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood642.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood643.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood644.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood645.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood646.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood647.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood648.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood649.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood650.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood651.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood652.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood653.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood654.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood655.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood656.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood657.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood658.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood659.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood660.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood661.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood662.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood663.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood664.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood665.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood666.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood667.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood668.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood669.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood670.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood671.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood672.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood673.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood674.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood675.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood676.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood677.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood678.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood679.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood680.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood681.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood682.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood683.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood684.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood685.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood686.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood687.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood688.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood689.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood690.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood691.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood692.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood693.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood694.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood695.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood696.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood697.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood698.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood699.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood700.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood701.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood702.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood703.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood704.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood705.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood706.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood707.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood708.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood709.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    water710.addEventListener("click", function () {
     alert("Você encontrou o ídolo da imunidade! Envie um print desse alerta no seu confessionário.");
-});
+    });
+    blood711.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood712.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood713.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood714.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood715.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood716.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood717.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood718.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood719.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood720.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood721.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood722.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood723.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood724.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood725.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood726.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood727.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood728.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood729.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood730.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood731.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood732.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood733.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood734.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood735.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood736.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood737.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood738.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood739.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood740.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood741.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood742.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood743.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood744.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood745.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood746.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood747.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood748.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood749.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood750.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood751.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood752.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood753.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood754.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood755.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood756.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood757.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood758.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood759.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood760.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood761.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood762.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood763.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood764.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood765.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood766.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood767.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood768.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood769.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood770.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood771.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood772.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood773.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood774.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood775.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood776.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood777.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood778.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood779.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood780.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood781.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood782.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood783.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood784.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood785.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood786.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood787.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood788.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood789.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood790.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood791.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood792.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood793.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood794.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood795.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood796.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood797.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood798.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood799.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood800.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood801.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood802.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood803.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood804.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood805.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood806.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood807.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood808.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood809.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood810.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood811.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood812.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood813.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood814.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood815.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood816.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood817.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood818.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood819.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood820.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood821.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood822.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood823.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood824.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood825.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood826.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood827.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood828.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood829.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood830.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood831.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood832.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood833.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood834.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood835.addEventListener("click", function () {
+    alert("Você encontrou o ídolo da imunidade! Envie um print desse alerta no seu confessionário.");
+    });
+    blood836.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood837.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood838.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood839.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood840.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood841.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood842.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood843.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood844.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood845.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood846.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood847.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood848.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood849.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood850.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood851.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood852.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood853.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood854.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood855.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood856.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood857.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood858.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood859.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood860.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood861.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood862.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood863.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood864.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood865.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood866.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood867.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood868.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood869.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood870.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood871.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood872.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood873.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood874.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood875.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood876.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood877.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood878.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood879.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood880.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood881.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood882.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood883.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood884.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood885.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood886.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood887.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood888.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood889.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood890.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood891.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood892.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood893.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood894.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood895.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood896.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood897.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood898.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood899.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood900.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood901.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood902.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood903.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood904.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood905.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood906.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood907.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood908.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood909.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood910.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood911.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood912.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood913.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood914.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood915.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood916.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood917.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood918.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood919.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood920.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood921.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood922.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood923.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood924.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood925.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood926.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood927.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood928.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood929.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood930.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood931.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood932.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood933.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood934.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood935.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood936.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood937.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood938.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood939.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood940.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood941.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood942.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood943.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood944.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood945.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood946.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood947.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood948.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood949.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood950.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood951.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood952.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood953.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood954.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood955.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood956.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood957.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood958.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood959.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood960.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood961.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood962.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood963.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood964.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood965.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood966.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood967.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood968.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood969.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood970.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood971.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood972.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood973.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood974.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood975.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood976.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood977.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood978.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood979.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood980.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood981.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood982.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood983.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood984.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood985.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood986.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood987.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood988.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood989.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood990.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood991.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood992.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood993.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood994.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood995.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood996.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood997.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood998.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood999.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
+    blood1000.addEventListener("click", function () {
+    alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
+    })
