@@ -3501,7 +3501,7 @@ blood1.addEventListener("click", function () {
     alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
     })
     blood835.addEventListener("click", function () {
-    alert("Você encontrou o ídolo da imunidade! Envie um print desse alerta no seu confessionário.");
+    alert("Você NÃO encontrou o ídolo da imunidade! Envie um print desse alerta no seu confessionário.");
     });
     blood836.addEventListener("click", function () {
     alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");
