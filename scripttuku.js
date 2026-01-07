@@ -358,7 +358,7 @@ merge356.addEventListener("click", function (){ alert("Você NÃO encontrou o í
 merge357.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
 merge358.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
 merge359.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
-merge360.addEventListener("click", function (){ alert("Envie print dessa mensagem no privado do Scream.");})
+merge360.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
 merge361.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
 merge362.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
 merge363.addEventListener("click", function (){ alert("Você NÃO encontrou o ídolo da imunidade. Continue procurando.");})
